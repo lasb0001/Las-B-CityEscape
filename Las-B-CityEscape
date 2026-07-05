@@ -1,0 +1,8 @@
+index.html
+css/
+js/
+assets/
+www/
+android/
+package.json
+capacitor.config.json
